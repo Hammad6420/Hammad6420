@@ -1,7 +1,4 @@
 - 👋 Hi, This is Muhammad Hammad.  (@Hammad6420)
-- 👀 I’m interested in technical revolutions.
-- 🌱 I’m currently learning flutter.
-- 💞️ I’m looking to collaborate on MERN, Python, JS, Artificial Projects, Machine Learning Projects of any type.
 - 📫 How to reach me hammadriaz28@gmail.com
 
 <!---
